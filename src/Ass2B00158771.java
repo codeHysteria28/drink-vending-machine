@@ -1,5 +1,4 @@
 // Branislav Buna
-// ID: B00158771
 // 29.11.2023
 // Program to simulate a drink vending machine
 import javax.swing.*;
